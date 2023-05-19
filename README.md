@@ -8,7 +8,7 @@ Mypolar was a tool I designed for my own personal usage to track my bipolar mood
 
 # Stack
 
-It uses Python on the backend, and stores a JSON file that serves as the database. The frontend is done in react + TS.
+It uses Python and Flask on the backend, and stores a JSON file that serves as the database. The frontend is done in react + TS.
 
 # Setup instructions
 
