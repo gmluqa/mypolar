@@ -17,8 +17,8 @@ db JSON example:
         "name": "Depakine Crono",
         "quantity" : 2
     }
-    }
-    "02/01/2000" : {
+}
+"02/01/2000" : {
     "feeling" : 4,
     "meds yesterday" : {
         "name" : "Depakine Crono",
