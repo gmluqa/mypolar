@@ -37,6 +37,6 @@ After all of this, the app will write to a file called data.json located in the 
 }
 ```
 
-# Instructions
+# Credits
 
-I made this for personal usage, so it only lists pills I personally take, if you would like more listed, let me know or submit a PR.
+I made this for personal usage, so it only lists pills I personally take, if you would like more listed, let me know or simply fork the project and list your own in the "pill_types" array.
