@@ -5,7 +5,7 @@ from datetime import datetime
 def track_mood():
     mood = int(input("How are you feeling today? (Scale of 1-10): "))
     pills = []
-    pill_types = ["Depakine Chrono 500mg", "Pristiq 50mg"]
+    pill_types = ["Depakine Chrono 500mg", "Pristiq 50mg", "Cod Liver Oil 462mg", "Zinc 50mg"]
 
     num_pills = int(input("How many pills are you going to take today? "))
 
